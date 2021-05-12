@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on Python projects, WebApps Projects, GUI Apps Projects.
 - 🤔 I’m looking for help with C++, OpenGL Lib.
 - 📫 How to reach me: Instagram(@nikhilsp1585) or Twitter
+- Fun Fact: I am a lazy man.
 
 <!--
 **nikhilsp1585/nikhilsp1585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
