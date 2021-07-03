@@ -13,7 +13,7 @@
 
 ### Available for free here check it out :
 
-- Instagram : <a href="https://www.google.com/" target="_blank">Google</a>
+- Instagram : <a href="https://www.instagram.com/nikhilpatel1585/" target="_blank">Google</a>
 
 <!--
 **nikhilsp1585/nikhilsp1585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
