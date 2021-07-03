@@ -4,8 +4,16 @@
 - 🌱 Learning C++, C#, OpenGL, Flutter & more.
 - 👯 Always here to collaborate on Python projects,DesktopApps Projects, Android Projects, Open Source projects
 - 🤔 I’m looking for help with C++, OpenGL Lib.
-- 📫 You can find me here : Instagram(@nikhilsp1585) or Twitter
 - Fun Fact: Lazzzzzzzzzzzzzy.
+- 
+### Languages & Frameworks that I know a little bit.:
+
+- Python (GUI also) - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML (FaVoUrite) - CSS - PAIN (aka Javascript)
+- This is not enough so I'm gonna learn some more to be depressed.
+
+### Available for free here check it out :
+
+- Instagram : [a link](www.google.com)
 
 <!--
 **nikhilsp1585/nikhilsp1585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +23,6 @@
 
 
 --!>
-### Some Serious Skills I have :
+
+
+
