@@ -1,17 +1,14 @@
 ### Namaste, Here's My Status 👋
 
-- 🔭 Currently working on Python programs, Java , webapps, Android app devlopement to Improve my skills. 
-- 🌱 Learning C++, C#, OpenGL, Flutter & more.
-- 👯 Always here to collaborate on Python projects,DesktopApps Projects, Android Projects, Open Source projects
-- 🤔 I’m looking for help with C++, OpenGL Lib.
-- Fun Fact: Lazzzzzzzzzzzzzy.
+- Currently working on Python programs, Java programs , webapps, Android app devlopement to improve my skills. 
+- Learning C++, C#, OpenGL.
+- Always here to collaborate on Python projects,DesktopApps Projects, Android Projects, Open Source projects
 
-### Languages & Frameworks that I know a little bit.:
+### Languages & Frameworks that I familiar with:
 
-- Python (GUI also) - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML (FaVoUrite) - CSS - PAIN (aka Javascript)
-- This is not enough so I'm gonna learn some more to be depressed.
+- Python - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML - CSS - Javascript
 
-### Available for free here check it out :
+### Socially available at :
 
 - Instagram : <a href="https://www.instagram.com/nikhilpatel1585/" target="_blank">@nikhilsp1585</a>
 
