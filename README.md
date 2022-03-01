@@ -1,12 +1,12 @@
 ### Namaste, Here's My Status 👋
 
-- Currently working on Python programs, Java programs , webapps, Android app devlopement to improve my skills. 
+- Currently working on Python programs, Java programs, webapps, Android app devlopement, .NET, C# to improve my skills. 
 - Learning C++, C#, OpenGL.
 - Always here to collaborate on Python projects,DesktopApps Projects, Android Projects, Open Source projects
 
 ### Languages & Frameworks that I familiar with:
 
-- Python - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML - CSS - Javascript
+- Python - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML - CSS - Javascript - .NET
 
 ### Socially available at :
 
