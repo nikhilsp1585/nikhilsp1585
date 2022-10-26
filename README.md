@@ -8,7 +8,7 @@
 
 - Python - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML - CSS - Javascript - .NET
 
-### Socially available at :
+### Socially available at (Inactive temporarily):
 
 - Instagram : <a href="https://www.instagram.com/nikhilpatel1585/" target="_blank">@nikhilsp1585</a>
 
