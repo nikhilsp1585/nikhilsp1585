@@ -4,7 +4,7 @@
 - Learning C++, C#, OpenGL.
 - Always here to collaborate on Python projects,DesktopApps Projects, Android Projects, Open Source projects
 
-### Languages & Frameworks that I familiar with:
+### Languages & Frameworks that I am familiar with:
 
 - Python - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML - CSS - Javascript - .NET
 
