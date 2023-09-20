@@ -1,7 +1,7 @@
 ### Namaste, Here's My Status 👋
 
 - Currently working on Python programs, Java programs, webapps, Android app devlopement, .NET, C# to improve my skills. 
-- Learning C++, C#, OpenGL.
+- Learning C++, C#, OpenGL & more.
 - Always here to collaborate on Python projects,DesktopApps Projects, Android Projects, Open Source projects
 
 ### Languages & Frameworks that I am familiar with:
