@@ -8,6 +8,7 @@
 ### Languages & Frameworks that I am familiar with:
 
 - Python - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML - CSS - Javascript - .NET
+- Verilog HDL
 
 ### Socially available at (Inactive temporarily):
 
