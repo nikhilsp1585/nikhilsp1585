@@ -7,12 +7,7 @@
 
 ### Languages & Frameworks that I am familiar with:
 
-- Python - Django - Flask - Flutter - Bootstrap - Java - Dart - C++ - C# - JavaFX - HTML - CSS - Javascript - .NET
-- Verilog HDL
-
-### Socially available at (Inactive temporarily):
-
-- Instagram : <a href="https://www.instagram.com/nikhilpatel1585/" target="_blank">@nikhilsp1585</a>
+- Python - Django - Flask - Bootstrap - Java - C++ - HTML - CSS - Javascript - Verilog HDL
 
 <!--
 **nikhilsp1585/nikhilsp1585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
