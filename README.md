@@ -15,6 +15,8 @@ Always trying and exploring new domains and tech. I like tinkering different tec
 ### I initally started my git journey when I was looking to develop my own softwares. These are the things/framework I know in that side of domains.  
 
 Django, Flask, Bootstrap, Java, HTML, CSS, Javascript  
+Android Dev, .NET, PYQT, Flutter (Very little exp.)
+ 
 
 <!--
 **nikhilsp1585/nikhilsp1585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
