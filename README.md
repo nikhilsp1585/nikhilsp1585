@@ -7,7 +7,7 @@ Always trying and exploring new domains and tech. I like tinkering different tec
 
 ### Things/Tools I know and have intermediate level of proficiency:
 
-**HDL** : Verlog, SystemVerilog, VHDL
+**HDL** : Verilog, SystemVerilog, VHDL
 **Programming/Scripting Languages** : C, C++, EmbeddedC, ARM CORTEX M0/M0+ Assembly, RISC-V Assembly, Python, TCL Script, Makefile  
 **Tools** : NGSPICE, LTSpice, Vivado, Verilator Simulator, KiCAD  
 **OS Familiarity** : Linux (Ubuntu, LinuxMint, ARCH), Windows  
