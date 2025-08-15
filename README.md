@@ -1,13 +1,20 @@
-### Namaste, Here's My Status 👋
+### Namste! Hello! Halo! 
 
-- Currently working on Python programs, Java programs, Django Webapps to improve my skills. 
-- Learning C++, C#, OpenGL & more.
-- Getting hold of FPGAs using Verilog, PCB Designing, Embedded Systems, Microcontrollers & Microprocessors, and many more. 
-- Always here to collaborate on Python projects, Open Source projects
+Currently, I am a Electronics and Communication engineering undergraduate student at SVNIT, Surat. 
+I am Digital VLSI Design, Computer architecture, Embedded Systems and AI/ML enthusiastic.
+Learning and improving everday in these domains. Also getting hold of Analog Design domain, still a long way to go
+Always trying and exploring new domains and tech. I like tinkering different techs.
 
-### Languages & Frameworks that I am familiar with:
+### Things/Tools I know and have intermediate level of proficiency:
 
-- Python - Django - Flask - Bootstrap - Java - C++ - HTML - CSS - Javascript - Verilog HDL
+HDL : Verlog, SystemVerilog, VHDL
+Programming/Scripting Languages: C, C++, EmbeddedC, ARM CORTEX M0/M0+ Assembly, RISC-V Assembly, Python, TCL Script, Makefile
+Tools : NGSPICE, LTSpice, Vivado, Verilator Simulator, KiCAD
+OS Familiarity : Linux (Ubuntu, LinuxMint, ARCH), Windows
+
+### I initally started my git journey when I was looking to develop my own softwares. These are the things/framework I know in that side of domains.
+
+- Python - Django - Flask - Bootstrap - Java - C++ - HTML - CSS - Javascript
 
 <!--
 **nikhilsp1585/nikhilsp1585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
