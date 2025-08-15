@@ -7,10 +7,10 @@ Always trying and exploring new domains and tech. I like tinkering different tec
 
 ### Things/Tools I know and have intermediate level of proficiency:
 
-HDL : Verlog, SystemVerilog, VHDL
-Programming/Scripting Languages: C, C++, EmbeddedC, ARM CORTEX M0/M0+ Assembly, RISC-V Assembly, Python, TCL Script, Makefile  
-Tools : NGSPICE, LTSpice, Vivado, Verilator Simulator, KiCAD  
-OS Familiarity : Linux (Ubuntu, LinuxMint, ARCH), Windows  
+**HDL** : Verlog, SystemVerilog, VHDL
+**Programming/Scripting Languages** : C, C++, EmbeddedC, ARM CORTEX M0/M0+ Assembly, RISC-V Assembly, Python, TCL Script, Makefile  
+**Tools** : NGSPICE, LTSpice, Vivado, Verilator Simulator, KiCAD  
+**OS Familiarity** : Linux (Ubuntu, LinuxMint, ARCH), Windows  
 
 ### I initally started my git journey when I was looking to develop my own softwares. These are the things/framework I know in that side of domains.  
 
